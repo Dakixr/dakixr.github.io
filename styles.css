@@ -55,6 +55,7 @@ footer{
 	height: 150px;
 	width: 150px;
 	transition: all 1s;
+	text-size: 60px;
 }
 
 .box:hover{
