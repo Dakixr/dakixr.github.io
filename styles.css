@@ -10,7 +10,7 @@ a{
 }
 
 footer{
-	margin-top: 5vh;
+	margin: 5vh 0px;
 	text-align: center;
 }
 .nav-bar{
@@ -42,7 +42,6 @@ footer{
 	display: grid;
 	grid-gap: 20px;
 	grid-template-columns: repeat(auto-fill, minmax(350px,1fr));
-	width: 80%;
 	margin: 0 auto;
 
 }
